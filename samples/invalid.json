@@ -1,0 +1,9 @@
+{
+  "code": 0,
+  "data": {
+    "items": [
+      {"id": "SKU-001", "name": "", "price": -9.9, "stock": true},
+      {"id": "SKU-001", "name": "水杯（模拟）", "price": "29.9"}
+    ]
+  }
+}
