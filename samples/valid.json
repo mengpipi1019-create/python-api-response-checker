@@ -1,0 +1,9 @@
+{
+  "code": 0,
+  "data": {
+    "items": [
+      {"id": "SKU-001", "name": "运动鞋（模拟）", "price": 399.0, "stock": 12},
+      {"id": "SKU-002", "name": "水杯（模拟）", "price": 29.9, "stock": 0}
+    ]
+  }
+}
