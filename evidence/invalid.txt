@@ -1,0 +1,7 @@
+FAIL: 6 issue(s)
+$.data.items[0].name [empty] must not be blank
+$.data.items[0].price [value] must be non-negative
+$.data.items[0].stock [type] expected an integer, not a boolean
+$.data.items[1].id [duplicate] product id must be unique
+$.data.items[1].price [type] expected a number, not a boolean
+$.data.items[1].stock [missing] required field is missing

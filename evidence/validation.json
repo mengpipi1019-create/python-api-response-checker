@@ -1,0 +1,21 @@
+{
+  "recorded_at_utc": "2026-09-15T09:09:08.203175+00:00",
+  "python": "3.12.14",
+  "os": "Windows",
+  "os_release": "11",
+  "machine": "AMD64",
+  "all_expected_exit_codes": true,
+  "exit_codes": {
+    "tests": 0,
+    "valid": 0,
+    "invalid": 1
+  },
+  "sha256": {
+    "checker.py": "057490d8916ee9e3f2e1400e0c6a92de7d8813ceca247e462c97fbd44a61198d",
+    "tests/test_checker.py": "39d93c73a488db2c09f382fca7b84082422906aec4412df452c673b3d38b6fb8",
+    "samples/valid.json": "f4a94fcfe57fc7ad329df32ffbdbba96c90a0befb2838979a9e27f679b162c52",
+    "samples/invalid.json": "3426c8fb512cc4aba073dc56de140ab475da31082dd8b880cd5f6898f0d77a5d",
+    "scripts/record_validation.py": "e0c39dc9758d76006a178fe90ad811610cd806d2d16185624dd29d8102c62ccc"
+  },
+  "scope": "Synthetic local fixtures only; not production/API integration results."
+}

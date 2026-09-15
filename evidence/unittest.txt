@@ -1,0 +1,35 @@
+test_bad_json_exit_two (test_checker.CliTests.test_bad_json_exit_two) ... ok
+test_existing_report_is_preserved (test_checker.CliTests.test_existing_report_is_preserved) ... ok
+test_input_overwrite_is_rejected (test_checker.CliTests.test_input_overwrite_is_rejected) ... ok
+test_invalid_exit_one_and_report (test_checker.CliTests.test_invalid_exit_one_and_report) ... ok
+test_missing_file_exit_two (test_checker.CliTests.test_missing_file_exit_two) ... ok
+test_overflowed_number_is_rejected (test_checker.CliTests.test_overflowed_number_is_rejected) ... ok
+test_utf8_bom_is_accepted (test_checker.CliTests.test_utf8_bom_is_accepted) ... ok
+test_valid_exit_zero (test_checker.CliTests.test_valid_exit_zero) ... ok
+test_all_item_fields_required (test_checker.ValidationTests.test_all_item_fields_required) ... ok
+test_blank_strings (test_checker.ValidationTests.test_blank_strings) ... ok
+test_boolean_numeric_fields (test_checker.ValidationTests.test_boolean_numeric_fields) ... ok
+test_code_boolean_is_rejected (test_checker.ValidationTests.test_code_boolean_is_rejected) ... ok
+test_data_wrong_type (test_checker.ValidationTests.test_data_wrong_type) ... ok
+test_duplicate_id (test_checker.ValidationTests.test_duplicate_id) ... ok
+test_empty_items_is_valid (test_checker.ValidationTests.test_empty_items_is_valid) ... ok
+test_float_stock_is_rejected (test_checker.ValidationTests.test_float_stock_is_rejected) ... ok
+test_input_is_not_mutated (test_checker.ValidationTests.test_input_is_not_mutated) ... ok
+test_invalid_sample_has_six_exact_issues (test_checker.ValidationTests.test_invalid_sample_has_six_exact_issues) ... ok
+test_item_wrong_type (test_checker.ValidationTests.test_item_wrong_type) ... ok
+test_items_wrong_type (test_checker.ValidationTests.test_items_wrong_type) ... ok
+test_missing_items (test_checker.ValidationTests.test_missing_items) ... ok
+test_missing_root_fields (test_checker.ValidationTests.test_missing_root_fields) ... ok
+test_negative_numeric_fields (test_checker.ValidationTests.test_negative_numeric_fields) ... ok
+test_nonfinite_price (test_checker.ValidationTests.test_nonfinite_price) ... ok
+test_nonzero_code (test_checker.ValidationTests.test_nonzero_code) ... ok
+test_null_is_type_error_not_missing (test_checker.ValidationTests.test_null_is_type_error_not_missing) ... ok
+test_root_wrong_type (test_checker.ValidationTests.test_root_wrong_type) ... ok
+test_unknown_fields_are_allowed (test_checker.ValidationTests.test_unknown_fields_are_allowed) ... ok
+test_valid (test_checker.ValidationTests.test_valid) ... ok
+test_zero_values_are_valid (test_checker.ValidationTests.test_zero_values_are_valid) ... ok
+
+----------------------------------------------------------------------
+Ran 30 tests in 1.051s
+
+OK
