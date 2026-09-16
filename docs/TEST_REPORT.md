@@ -1,6 +1,6 @@
 # 验证记录
 
-日期：2026-09-15。执行主体：AI 助手在本机运行；不是用户个人能力考核。
+首次验证日期：2026-09-15。最新重跑时间和环境见 `../evidence/validation.json`。
 
 ## 本次结果
 
@@ -9,7 +9,7 @@
 - 异常模拟样例：退出码 1，6 个问题；字段路径和错误类别与预期逐一对比通过。
 - 错误 JSON、重复 JSON 键、缺失文件、试图覆盖输入/已有报告：命令行测试确认退出码 2。
 
-运行环境、时间、源码与样例 SHA-256、完整测试日志由 `scripts/record_validation.py` 自动生成，见 `evidence/validation.json` 与 `evidence/unittest.txt`。此处不手工编造运行耗时或覆盖率。
+运行环境、时间、源码与样例 SHA-256、完整测试日志由 `scripts/record_validation.py` 记录，见 `../evidence/validation.json` 与 `../evidence/unittest.txt`。
 
 ## 覆盖内容
 
